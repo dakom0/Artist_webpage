@@ -1,0 +1,54 @@
+
+   img{
+  border-style: solid;
+  box-shadow: 10px 10px 5px black;
+  height: 300px;
+		width: 300px;
+		float: center;
+margin: 40px 20px 10px 20px
+}
+  .avatar {
+  float: center;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+    a{
+		font-size: 20pt;
+  }
+ 
+  body{
+   background-color: gold;
+   text-align: center;
+
+  }
+  div{
+  border-color: black;
+		border-style: solid;
+		border-radius: 10px;
+		background-color: rgb(215, 131, 71);
+		height: 600px;
+		width:600px;
+		margin: 4vh;
+		box-shadow: 10px 10px 5px rgb(178, 109, 71);
+		font-family:Tahoma, Geneva, sans-serif;
+		display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+  h3{
+  border-color: black;
+		border-style: solid;
+		border-radius: 5px;
+		background-color: white;
+		padding: 20px;
+		height: 50px;
+		margin: 4vh;
+		box-shadow: 5px 5px 5px grey;
+
+  }
